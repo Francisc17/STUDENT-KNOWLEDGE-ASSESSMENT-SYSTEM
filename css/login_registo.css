@@ -1,0 +1,43 @@
+.img_principal{
+    height: 80px;
+    width: 140px;
+    padding: 10px 0px;
+}
+
+.bannerSite{
+    background: #3974C3;
+}
+
+.banner-titulo{
+    font-size: 30px;
+    padding: 0px 0px;
+    color: #ffffff;
+    padding-right: 50px;
+}
+
+.buttons-loginRegisto{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -110px;
+    width: 200px;
+    height: 100px;
+}
+
+.btn-login,.btn-registo{
+    color: #ffffff;
+    background: #3974C3;
+}
+
+.btn-login{
+    margin-bottom: 70px;
+}
+
+.login-image{
+    padding: 40px 0 0 120px;
+}
+
+.register-image{
+    padding: 60px 0 0 120px;
+}
